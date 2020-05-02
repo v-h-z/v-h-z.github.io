@@ -1,0 +1,9 @@
+.avatar {
+  background-image: url('../../images/photo_vh.jpg');
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgba(0,0,0,0.2);
+  background-position: center;
+  background-size: cover;
+}
