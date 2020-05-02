@@ -1,5 +1,8 @@
 @import url('components/avatars.css');
 
+body {
+  margin: 0;
+}
 
 .container {
   height: 100vh;
